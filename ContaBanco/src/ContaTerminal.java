@@ -22,13 +22,17 @@ public class ContaTerminal {
 
         scanner.close();
          /*
-        * abra o cmd
-        * C:\seu diretório> cd Banco Via Terminal
-        * C:\seu diretório\Banco Via Terminal>cd out
-        C:\seu diretório\Banco Via Terminal\out>cd production
-        C:\seu diretório\Banco Via Terminal\out\production> cd ContaBanco
-        C:\seu diretório\Banco Via Terminal\out\production\ContaBanco>java ContaTerminal
-        *
+          * 1. Abra o CMD
+          *
+          * 2. Navegue até a pasta onde está o projeto compilado:
+          *
+          *    Exemplo:
+          *
+          *    C:\> cd Users\SeuUsuario\Desktop\NomeDaPastaDoProjeto
+          *    C:\Users\SeuUsuario\Desktop\NomeDaPastaDoProjeto> cd out
+          *    C:\Users\SeuUsuario\Desktop\NomeDaPastaDoProjeto\out> cd production
+          *    C:\Users\SeuUsuario\Desktop\NomeDaPastaDoProjeto\out\production> cd ContaBanco
+          *    C:\Users\SeuUsuario\Desktop\NomeDaPastaDoProjeto\out\production\ContaBanco> java ContaTerminal
         * */
 
 
